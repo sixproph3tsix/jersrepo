@@ -9,4 +9,4 @@ func main() {
 
 // changed var i to j 07272023
 
-// tinker 07272023 jer
+// tynker 07272023 jer
