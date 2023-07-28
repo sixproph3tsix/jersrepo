@@ -2,7 +2,9 @@ package main
 import "fmt"
 
 func main() {
-	for i:= 1, i <= 100 {
-		fmt.Print(i, " ")
+	for j:= 1, j <= 100 {
+		fmt.Print(j, " ")
 	}
 }
+
+// changed var i to j 07272023
